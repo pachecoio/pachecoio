@@ -1,3 +1,3 @@
-### Hi there, I'm (Thiago Pacheco - aka thisk8brd)[https://pacheco.io]
+### Hi there, I'm Thiago Pacheco
 
 ## I'm Full-stack developer currently based in Montreal
