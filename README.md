@@ -6,4 +6,4 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=pachecoio&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pachecoio)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pachecoio&theme=dark)](https://git.io/streak-stats)
