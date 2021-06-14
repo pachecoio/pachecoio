@@ -5,15 +5,15 @@
 
 - 🤝 I’m looking for help with [Logan API](https://github.com/pachecoio/logan)
 
-- 👨‍💻 All of my projects are available at [thiagopacheco.dev](thiagopacheco.dev)
+- 👨‍💻 All of my projects are available at [thiagopacheco.dev](https://thiagopacheco.dev)
 
-- 📝 I regularly write articles on [thiagopacheco.dev](thiagopacheco.dev)
+- 📝 I regularly write articles on [thiagopacheco.dev](https://thiagopacheco.dev)
 
 - 💬 Ask me about **Javascript, Python**
 
 - 📫 How to reach me **hi@pacheco.io**
 
-- 📄 Know about my experiences [thiagopacheco.dev](thiagopacheco.dev)
+- 📄 Know about my experiences [thiagopacheco.dev](https://thiagopacheco.dev)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
