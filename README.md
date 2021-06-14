@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [thiagopacheco.dev](https://thiagopacheco.dev)
 
-- 📝 I regularly write articles on [thiagopacheco.dev](https://thiagopacheco.dev)
+- 📝 I write some articles on [thiagopacheco.dev](https://thiagopacheco.dev) and [dev.to/pacheco](http://dev.to/pacheco)
 
 - 💬 Ask me about **Javascript, Python**
 
