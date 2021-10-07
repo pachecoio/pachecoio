@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Thiago Pacheco</h1>
 <h3 align="center">A Sr Developer passionate about building software solutions for everything.</h3>
 
-- 🔭 I’m currently working on [a simple API Library called Logan](https://github.com/pachecoio/logan)
+<!-- - 🔭 I’m currently working on [a simple API Library called Logan](https://github.com/pachecoio/logan)
 
 - 🤝 I’m looking for help with [Logan API](https://github.com/pachecoio/logan)
 
-- 👨‍💻 All of my projects are available at [thiagopacheco.dev](https://thiagopacheco.dev)
+- 👨‍💻 All of my projects are available at [thiagopacheco.dev](https://thiagopacheco.dev) -->
 
 - 📝 I write some articles on [thiagopacheco.dev](https://thiagopacheco.dev) and [dev.to/pacheco](http://dev.to/pacheco)
 
-- 💬 Ask me about **Javascript, Python**
+- 💬 Ask me about **Javascript, Python, Fluter, Docker, Kubernetes, Microservices**
 
 - 📫 How to reach me **hi@pacheco.io**
 
