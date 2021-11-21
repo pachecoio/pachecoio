@@ -17,11 +17,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Create a Restful API with Golang from scratch](https://dev.to/pacheco/create-a-restful-api-with-golang-from-scratch-42g2)
 - [Dockerize a Flask app and debug with VSCode](https://dev.to/pacheco/dockerize-a-flask-app-and-debug-with-vscode-34i1)
 - [What do you do to give yourself a break from coding?](https://dev.to/pacheco/what-do-you-do-to-give-yourself-a-break-from-coding-3gen)
 - [How to Dockerize a Node app and deploy to Heroku](https://dev.to/pacheco/how-to-dockerize-a-node-app-and-deploy-to-heroku-3cch)
 - [Designing a better architecture for a Node.js API](https://dev.to/pacheco/designing-a-better-architecture-for-a-node-js-api-24d)
-- [How to deploy a Webapp to Heroku &lpar;Node.js, React.js and MongoDB&rpar;](https://dev.to/pacheco/how-to-deploy-a-webapp-to-heroku-node-js-react-js-and-mongodb-5a7g)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
